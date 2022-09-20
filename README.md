@@ -1,2 +1,2 @@
 # Proappstination
-allium hacks thing hahahahah
+allium hacks hackathon
